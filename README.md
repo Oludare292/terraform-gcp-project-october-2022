@@ -32,9 +32,12 @@ Enable Cloud Resource Manager API: Enable Cloud Resource Manager API by visiting
 
 IAM API: Enable IAM API by visiting https://console.developers.google.com/apis/api/iam.googleapis.com/overview, if it's not already enabled
 
-# Running Terraform Scripts
-See Execution Plan: terraform plan
-Create Environment: terraform apply
-Destroy Environment: terraform destroy
-Print Environment Output: terraform output
+# **Running Terraform Scripts**
 
+---
+- See Execution Plan: terraform plan
+- Create Environment: terraform apply
+- Destroy Environment: terraform destroy
+- Print Environment Output: terraform output
+
+---
